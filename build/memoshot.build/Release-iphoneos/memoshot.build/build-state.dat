@@ -1,0 +1,733 @@
+Tmemoshot
+v7
+r0
+t331466184.785955
+cCheck dependencies
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/1111/Library/MobileDevice/Provisioning Profiles/B7478FB3-C5D9-4F54-82E2-E5AF7CF5293B.mobileprovision
+c000000004DFCA3230000000000001C88
+t1308402467
+s7304
+
+N/Users/1111/Workspace/memoshot/Classes/home_memoAppDelegate.h
+c000000004DEE2A1D00000000000001E5
+t1307453981
+s485
+i<UIKit/UIKit.h>
+
+N/Users/1111/Workspace/memoshot/Classes/home_memoAppDelegate.m
+c000000004DEE2A1D0000000000000A99
+t1307453981
+s2713
+i"home_memoAppDelegate.h"
+i"home_memoViewController.h"
+
+N/Users/1111/Workspace/memoshot/Classes/home_memoViewController.h
+c000000004DFCD04E0000000000000553
+t1308414030
+s1363
+i<UIKit/UIKit.h>
+
+N/Users/1111/Workspace/memoshot/Classes/home_memoViewController.m
+c000000004E118DC90000000000001CD4
+t1309773257
+s7380
+i"home_memoViewController.h"
+i<QuartzCore/QuartzCore.h>
+i"zedoul_common.h"
+
+N/Users/1111/Workspace/memoshot/English.lproj/Localizable.strings
+c000000004DFDF4F900000000000002EE
+t1308488953
+s750
+
+N/Users/1111/Workspace/memoshot/Icon.png
+c000000004E01DFFF0000000000001729
+t1308745727
+s5929
+
+N/Users/1111/Workspace/memoshot/MainWindow.xib
+c000000004DEE2A1D0000000000004E41
+t1307453981
+s20033
+
+N/Users/1111/Workspace/memoshot/blue-dark.png
+c000000004DEE2A1D000000000000187D
+t1307453981
+s6269
+
+N/Users/1111/Workspace/memoshot/blue.png
+c000000004DEE2A1D000000000000139F
+t1307453981
+s5023
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app.dSYM
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/English.lproj/Localizable.strings
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/Icon.png
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/Info.plist
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/MainWindow.nib
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/PkgInfo
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/ResourceRules.plist
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/blue-dark.png
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/blue.png
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/done.png
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/green-dark.png
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/green.png
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/home_memoViewController.nib
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/ko.lproj/Localizable.strings
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/memoshot
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/red-dark.png
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/red.png
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/white-dark.png
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/white.png
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/yell-dark.png
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/yell.png
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/custom_button.o
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/home_memoAppDelegate.o
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/home_memoViewController.o
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/main.o
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/memoshot
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/memoshot.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/custom_button.o
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/home_memoAppDelegate.o
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/home_memoViewController.o
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/memoshot
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/memoshot.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot.xcent
+t2
+s0
+
+N/Users/1111/Workspace/memoshot/custom_button.h
+c000000004DEE2A1D0000000000000096
+t1307453981
+s150
+
+N/Users/1111/Workspace/memoshot/custom_button.m
+c000000004DEE2A1D000000000000017B
+t1307453981
+s379
+i"custom_button.h"
+
+N/Users/1111/Workspace/memoshot/done.png
+c000000004DEE2A1D0000000000000E22
+t1307453981
+s3618
+
+N/Users/1111/Workspace/memoshot/green-dark.png
+c000000004DEE2A1D000000000000188D
+t1307453981
+s6285
+
+N/Users/1111/Workspace/memoshot/green.png
+c000000004DEE2A1D00000000000014FB
+t1307453981
+s5371
+
+N/Users/1111/Workspace/memoshot/home_memoViewController.xib
+c000000004DFDEE7F000000000000919B
+t1308487295
+s37275
+
+N/Users/1111/Workspace/memoshot/home_memo_Prefix.pch
+c000000004DEE2A1D00000000000000BB
+t1307453981
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/1111/Workspace/memoshot/ko.lproj/Localizable.strings
+c000000004DF464EB000000000000021C
+t1307862251
+s540
+
+N/Users/1111/Workspace/memoshot/main.m
+c000000004DEE2A1D0000000000000165
+t1307453981
+s357
+i<UIKit/UIKit.h>
+
+N/Users/1111/Workspace/memoshot/red-dark.png
+c000000004DEE2A1D0000000000001922
+t1307453981
+s6434
+
+N/Users/1111/Workspace/memoshot/red.png
+c000000004DEE2A1D0000000000001408
+t1307453981
+s5128
+
+N/Users/1111/Workspace/memoshot/white-dark.png
+c000000004DEE2A1D00000000000017B7
+t1307453981
+s6071
+
+N/Users/1111/Workspace/memoshot/white.png
+c000000004DEE2A1D00000000000012A3
+t1307453981
+s4771
+
+N/Users/1111/Workspace/memoshot/yell-dark.png
+c000000004DEE2A1D00000000000019F5
+t1307453981
+s6645
+
+N/Users/1111/Workspace/memoshot/yell.png
+c000000004DEE2A1D00000000000014A2
+t1307453981
+s5282
+
+N/Users/1111/Workspace/memoshot/zedoul_common.h
+c000000004DF2CF2300000000000000AC
+t1307758371
+s172
+
+N/var/folders/UT/UTh0O9B+F-WqSCph5zEfcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/home_memo_Prefix-bsbagavkzavhiaczbeeeqhxugvqn/home_memo_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/UT/UTh0O9B+F-WqSCph5zEfcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/home_memo_Prefix-gpsolwytwygjfeeqmrhmgxxhhrjd/home_memo_Prefix.pch.gch
+t2
+s0
+
+Nhome_memo-Info.plist
+c000000004E01DC4A0000000000000413
+t1308744778
+s1043
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies331466184#331466184#0(0"0(0#1#0"8607305600#0"0#
+
+CCodeSign /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app
+s330188204.629040
+e330188205.054573
+r1
+xCodeSign
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app
+o/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app: replacing existing signature
+lSLF07#2@44"CodeSign build/Release-iphoneos/memoshot.app330188204#330188205#0(97"/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app: replacing existing signature0(0#0#66"/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app8638805280#690"    cd /Users/1111/Workspace/memoshot    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: Chan Shik Lim (7Z82A6Z25D)" --resource-rules=/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/ResourceRules.plist --entitlements /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot.xcent /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app0#
+
+CCompileC build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/custom_button.o /Users/1111/Workspace/memoshot/custom_button.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330181604.646053
+e330181604.767626
+r1
+xCompileC
+xbuild/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/custom_button.o
+x/Users/1111/Workspace/memoshot/custom_button.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/1111/Workspace/memoshot/custom_button.m330181604#330181604#0(0"0(0#0#46"/Users/1111/Workspace/memoshot/custom_button.m8629722688#1780"    cd /Users/1111/Workspace/memoshot    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-generated-files.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-own-target-headers.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-all-target-headers.hmap -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-project-headers.hmap -F/Users/1111/Workspace/memoshot/build/Release-iphoneos -I/Users/1111/Workspace/memoshot/build/Release-iphoneos/include -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources/armv6 -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/UT/UTh0O9B+F-WqSCph5zEfcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/home_memo_Prefix-gpsolwytwygjfeeqmrhmgxxhhrjd/home_memo_Prefix.pch -c /Users/1111/Workspace/memoshot/custom_button.m -o /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/custom_button.o0#
+
+CCompileC build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/home_memoAppDelegate.o /Users/1111/Workspace/memoshot/Classes/home_memoAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330181604.406663
+e330181604.645925
+r1
+xCompileC
+xbuild/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/home_memoAppDelegate.o
+x/Users/1111/Workspace/memoshot/Classes/home_memoAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/1111/Workspace/memoshot/Classes/home_memoAppDelegate.m330181604#330181604#0(0"0(0#0#61"/Users/1111/Workspace/memoshot/Classes/home_memoAppDelegate.m8615429408#1802"    cd /Users/1111/Workspace/memoshot    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-generated-files.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-own-target-headers.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-all-target-headers.hmap -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-project-headers.hmap -F/Users/1111/Workspace/memoshot/build/Release-iphoneos -I/Users/1111/Workspace/memoshot/build/Release-iphoneos/include -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources/armv6 -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/UT/UTh0O9B+F-WqSCph5zEfcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/home_memo_Prefix-gpsolwytwygjfeeqmrhmgxxhhrjd/home_memo_Prefix.pch -c /Users/1111/Workspace/memoshot/Classes/home_memoAppDelegate.m -o /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/home_memoAppDelegate.o0#
+
+CCompileC build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/home_memoViewController.o /Users/1111/Workspace/memoshot/Classes/home_memoViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330181604.544751
+e330181605.108572
+r1
+xCompileC
+xbuild/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/home_memoViewController.o
+x/Users/1111/Workspace/memoshot/Classes/home_memoViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/1111/Workspace/memoshot/Classes/home_memoViewController.m330181604#330181605#0(0"0(0#0#64"/Users/1111/Workspace/memoshot/Classes/home_memoViewController.m8632514432#1808"    cd /Users/1111/Workspace/memoshot    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-generated-files.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-own-target-headers.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-all-target-headers.hmap -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-project-headers.hmap -F/Users/1111/Workspace/memoshot/build/Release-iphoneos -I/Users/1111/Workspace/memoshot/build/Release-iphoneos/include -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources/armv6 -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/UT/UTh0O9B+F-WqSCph5zEfcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/home_memo_Prefix-gpsolwytwygjfeeqmrhmgxxhhrjd/home_memo_Prefix.pch -c /Users/1111/Workspace/memoshot/Classes/home_memoViewController.m -o /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/home_memoViewController.o0#
+
+CCompileC build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/main.o /Users/1111/Workspace/memoshot/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330181604.404851
+e330181604.544616
+r1
+xCompileC
+xbuild/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/main.o
+x/Users/1111/Workspace/memoshot/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/1111/Workspace/memoshot/main.m330181604#330181604#0(0"0(0#0#37"/Users/1111/Workspace/memoshot/main.m8626172704#1762"    cd /Users/1111/Workspace/memoshot    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-generated-files.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-own-target-headers.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-all-target-headers.hmap -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-project-headers.hmap -F/Users/1111/Workspace/memoshot/build/Release-iphoneos -I/Users/1111/Workspace/memoshot/build/Release-iphoneos/include -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources/armv6 -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/UT/UTh0O9B+F-WqSCph5zEfcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/home_memo_Prefix-gpsolwytwygjfeeqmrhmgxxhhrjd/home_memo_Prefix.pch -c /Users/1111/Workspace/memoshot/main.m -o /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/custom_button.o /Users/1111/Workspace/memoshot/custom_button.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330181605.160931
+e330181605.290868
+r1
+xCompileC
+xbuild/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/custom_button.o
+x/Users/1111/Workspace/memoshot/custom_button.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/1111/Workspace/memoshot/custom_button.m330181605#330181605#0(0"0(0#0#46"/Users/1111/Workspace/memoshot/custom_button.m8631500672#1780"    cd /Users/1111/Workspace/memoshot    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-generated-files.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-own-target-headers.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-all-target-headers.hmap -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-project-headers.hmap -F/Users/1111/Workspace/memoshot/build/Release-iphoneos -I/Users/1111/Workspace/memoshot/build/Release-iphoneos/include -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources/armv7 -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/UT/UTh0O9B+F-WqSCph5zEfcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/home_memo_Prefix-bsbagavkzavhiaczbeeeqhxugvqn/home_memo_Prefix.pch -c /Users/1111/Workspace/memoshot/custom_button.m -o /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/custom_button.o0#
+
+CCompileC build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/home_memoAppDelegate.o /Users/1111/Workspace/memoshot/Classes/home_memoAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330181604.859588
+e330181605.016023
+r1
+xCompileC
+xbuild/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/home_memoAppDelegate.o
+x/Users/1111/Workspace/memoshot/Classes/home_memoAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/1111/Workspace/memoshot/Classes/home_memoAppDelegate.m330181604#330181605#0(0"0(0#0#61"/Users/1111/Workspace/memoshot/Classes/home_memoAppDelegate.m8626010176#1802"    cd /Users/1111/Workspace/memoshot    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-generated-files.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-own-target-headers.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-all-target-headers.hmap -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-project-headers.hmap -F/Users/1111/Workspace/memoshot/build/Release-iphoneos -I/Users/1111/Workspace/memoshot/build/Release-iphoneos/include -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources/armv7 -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/UT/UTh0O9B+F-WqSCph5zEfcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/home_memo_Prefix-bsbagavkzavhiaczbeeeqhxugvqn/home_memo_Prefix.pch -c /Users/1111/Workspace/memoshot/Classes/home_memoAppDelegate.m -o /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/home_memoAppDelegate.o0#
+
+CCompileC build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/home_memoViewController.o /Users/1111/Workspace/memoshot/Classes/home_memoViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330181605.016155
+e330181605.434626
+r1
+xCompileC
+xbuild/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/home_memoViewController.o
+x/Users/1111/Workspace/memoshot/Classes/home_memoViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/1111/Workspace/memoshot/Classes/home_memoViewController.m330181605#330181605#0(0"0(0#0#64"/Users/1111/Workspace/memoshot/Classes/home_memoViewController.m8633600672#1808"    cd /Users/1111/Workspace/memoshot    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-generated-files.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-own-target-headers.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-all-target-headers.hmap -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-project-headers.hmap -F/Users/1111/Workspace/memoshot/build/Release-iphoneos -I/Users/1111/Workspace/memoshot/build/Release-iphoneos/include -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources/armv7 -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/UT/UTh0O9B+F-WqSCph5zEfcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/home_memo_Prefix-bsbagavkzavhiaczbeeeqhxugvqn/home_memo_Prefix.pch -c /Users/1111/Workspace/memoshot/Classes/home_memoViewController.m -o /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/home_memoViewController.o0#
+
+CCompileC build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/main.o /Users/1111/Workspace/memoshot/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330181604.767759
+e330181604.859461
+r1
+xCompileC
+xbuild/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/main.o
+x/Users/1111/Workspace/memoshot/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@45"Compile /Users/1111/Workspace/memoshot/main.m330181604#330181604#0(0"0(0#0#37"/Users/1111/Workspace/memoshot/main.m8628467584#1762"    cd /Users/1111/Workspace/memoshot    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-generated-files.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-own-target-headers.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-all-target-headers.hmap -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-project-headers.hmap -F/Users/1111/Workspace/memoshot/build/Release-iphoneos -I/Users/1111/Workspace/memoshot/build/Release-iphoneos/include -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources/armv7 -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/UT/UTh0O9B+F-WqSCph5zEfcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/home_memo_Prefix-bsbagavkzavhiaczbeeeqhxugvqn/home_memo_Prefix.pch -c /Users/1111/Workspace/memoshot/main.m -o /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/main.o0#
+
+CCompileXIB /Users/1111/Workspace/memoshot/MainWindow.xib
+s330181601.348300
+e330181602.172255
+r1
+xCompileXIB
+x/Users/1111/Workspace/memoshot/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib330181601#330181602#0(0"0(0#0#45"/Users/1111/Workspace/memoshot/MainWindow.xib8628728064#583"    cd /Users/1111/Workspace/memoshot    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/MainWindow.nib /Users/1111/Workspace/memoshot/MainWindow.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB /Users/1111/Workspace/memoshot/home_memoViewController.xib
+s330181601.510629
+e330181602.412901
+r1
+xCompileXIB
+x/Users/1111/Workspace/memoshot/home_memoViewController.xib
+lSLF07#2@38"CompileXIB home_memoViewController.xib330181601#330181602#0(0"0(0#0#58"/Users/1111/Workspace/memoshot/home_memoViewController.xib8627822560#609"    cd /Users/1111/Workspace/memoshot    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/home_memoViewController.nib /Users/1111/Workspace/memoshot/home_memoViewController.xib --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCopyPNGFile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/Icon.png Icon.png
+s330181602.697713
+e330181602.789523
+r1
+xCopyPNGFile
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/Icon.png
+xIcon.png
+lSLF07#2@65"CopyPNGFile build/Release-iphoneos/memoshot.app/Icon.png Icon.png330181602#330181602#0(0"0(0#0#39"/Users/1111/Workspace/memoshot/Icon.png8627863680#597"    cd /Users/1111/Workspace/memoshot    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/1111/Workspace/memoshot/Icon.png /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/Icon.png0#
+
+CCopyPNGFile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/blue-dark.png blue-dark.png
+s330181602.172387
+e330181602.218044
+r1
+xCopyPNGFile
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/blue-dark.png
+xblue-dark.png
+lSLF07#2@75"CopyPNGFile build/Release-iphoneos/memoshot.app/blue-dark.png blue-dark.png330181602#330181602#0(0"0(0#0#44"/Users/1111/Workspace/memoshot/blue-dark.png8625652128#607"    cd /Users/1111/Workspace/memoshot    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/1111/Workspace/memoshot/blue-dark.png /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/blue-dark.png0#
+
+CCopyPNGFile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/blue.png blue.png
+s330181602.218173
+e330181602.260748
+r1
+xCopyPNGFile
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/blue.png
+xblue.png
+lSLF07#2@65"CopyPNGFile build/Release-iphoneos/memoshot.app/blue.png blue.png330181602#330181602#0(0"0(0#0#39"/Users/1111/Workspace/memoshot/blue.png8625101408#597"    cd /Users/1111/Workspace/memoshot    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/1111/Workspace/memoshot/blue.png /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/blue.png0#
+
+CCopyPNGFile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/done.png done.png
+s330181602.260875
+e330181602.303176
+r1
+xCopyPNGFile
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/done.png
+xdone.png
+lSLF07#2@65"CopyPNGFile build/Release-iphoneos/memoshot.app/done.png done.png330181602#330181602#0(0"0(0#0#39"/Users/1111/Workspace/memoshot/done.png8624890464#597"    cd /Users/1111/Workspace/memoshot    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/1111/Workspace/memoshot/done.png /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/done.png0#
+
+CCopyPNGFile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/green-dark.png green-dark.png
+s330181602.303307
+e330181602.351990
+r1
+xCopyPNGFile
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/green-dark.png
+xgreen-dark.png
+lSLF07#2@77"CopyPNGFile build/Release-iphoneos/memoshot.app/green-dark.png green-dark.png330181602#330181602#0(0"0(0#0#45"/Users/1111/Workspace/memoshot/green-dark.png8624666624#609"    cd /Users/1111/Workspace/memoshot    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/1111/Workspace/memoshot/green-dark.png /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/green-dark.png0#
+
+CCopyPNGFile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/green.png green.png
+s330181602.352117
+e330181602.423791
+r1
+xCopyPNGFile
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/green.png
+xgreen.png
+lSLF07#2@67"CopyPNGFile build/Release-iphoneos/memoshot.app/green.png green.png330181602#330181602#0(0"0(0#0#40"/Users/1111/Workspace/memoshot/green.png8624227808#599"    cd /Users/1111/Workspace/memoshot    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/1111/Workspace/memoshot/green.png /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/green.png0#
+
+CCopyPNGFile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/red-dark.png red-dark.png
+s330181602.413025
+e330181602.476012
+r1
+xCopyPNGFile
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/red-dark.png
+xred-dark.png
+lSLF07#2@73"CopyPNGFile build/Release-iphoneos/memoshot.app/red-dark.png red-dark.png330181602#330181602#0(0"0(0#0#43"/Users/1111/Workspace/memoshot/red-dark.png8623338016#605"    cd /Users/1111/Workspace/memoshot    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/1111/Workspace/memoshot/red-dark.png /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/red-dark.png0#
+
+CCopyPNGFile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/red.png red.png
+s330181602.423919
+e330181602.479844
+r1
+xCopyPNGFile
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/red.png
+xred.png
+lSLF07#2@63"CopyPNGFile build/Release-iphoneos/memoshot.app/red.png red.png330181602#330181602#0(0"0(0#0#38"/Users/1111/Workspace/memoshot/red.png8622496224#595"    cd /Users/1111/Workspace/memoshot    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/1111/Workspace/memoshot/red.png /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/red.png0#
+
+CCopyPNGFile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/white-dark.png white-dark.png
+s330181602.476156
+e330181602.531861
+r1
+xCopyPNGFile
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/white-dark.png
+xwhite-dark.png
+lSLF07#2@77"CopyPNGFile build/Release-iphoneos/memoshot.app/white-dark.png white-dark.png330181602#330181602#0(0"0(0#0#45"/Users/1111/Workspace/memoshot/white-dark.png8632133056#609"    cd /Users/1111/Workspace/memoshot    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/1111/Workspace/memoshot/white-dark.png /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/white-dark.png0#
+
+CCopyPNGFile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/white.png white.png
+s330181602.479972
+e330181602.530333
+r1
+xCopyPNGFile
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/white.png
+xwhite.png
+lSLF07#2@67"CopyPNGFile build/Release-iphoneos/memoshot.app/white.png white.png330181602#330181602#0(0"0(0#0#40"/Users/1111/Workspace/memoshot/white.png8631622016#599"    cd /Users/1111/Workspace/memoshot    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/1111/Workspace/memoshot/white.png /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/white.png0#
+
+CCopyPNGFile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/yell-dark.png yell-dark.png
+s330181602.530458
+e330181602.593118
+r1
+xCopyPNGFile
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/yell-dark.png
+xyell-dark.png
+lSLF07#2@75"CopyPNGFile build/Release-iphoneos/memoshot.app/yell-dark.png yell-dark.png330181602#330181602#0(0"0(0#0#44"/Users/1111/Workspace/memoshot/yell-dark.png8630877600#607"    cd /Users/1111/Workspace/memoshot    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/1111/Workspace/memoshot/yell-dark.png /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/yell-dark.png0#
+
+CCopyPNGFile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/yell.png yell.png
+s330181601.347185
+e330181601.510476
+r1
+xCopyPNGFile
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/yell.png
+xyell.png
+lSLF07#2@65"CopyPNGFile build/Release-iphoneos/memoshot.app/yell.png yell.png330181601#330181601#0(0"0(0#0#39"/Users/1111/Workspace/memoshot/yell.png8629040960#597"    cd /Users/1111/Workspace/memoshot    setenv COPY_COMMAND /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    "/Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/Plug-ins/iPhoneOS Build System Support.xcplugin/Contents/Resources/copypng" -compress "" /Users/1111/Workspace/memoshot/yell.png /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/yell.png0#
+
+CCopyStringsFile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/English.lproj/Localizable.strings English.lproj/Localizable.strings
+s330181757.004132
+e330181757.445563
+r1
+xCopyStringsFile
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/English.lproj/Localizable.strings
+xEnglish.lproj/Localizable.strings
+lSLF07#2@38"Copy English.lproj/Localizable.strings330181757#330181757#0(0"0(0#0#64"/Users/1111/Workspace/memoshot/English.lproj/Localizable.strings8631535520#531"    cd /Users/1111/Workspace/memoshot    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding binary English.lproj/Localizable.strings --outdir /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/English.lproj0#
+
+CCopyStringsFile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/ko.lproj/Localizable.strings ko.lproj/Localizable.strings
+s330181602.593283
+e330181602.697582
+r1
+xCopyStringsFile
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/ko.lproj/Localizable.strings
+xko.lproj/Localizable.strings
+oko.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-16
+lSLF07#2@33"Copy ko.lproj/Localizable.strings330181602#330181602#0(130"ko.lproj/Localizable.strings: warning: the specified encoding is utf-8, but file contents appear to be UTF-16; treating as UTF-160(0#0#59"/Users/1111/Workspace/memoshot/ko.lproj/Localizable.strings8629071904#520"    cd /Users/1111/Workspace/memoshot    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary ko.lproj/Localizable.strings --outdir /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/ko.lproj0#
+
+CCpResource build/Release-iphoneos/memoshot.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s330181601.311211
+e330181601.347058
+r1
+xCpResource
+xbuild/Release-iphoneos/memoshot.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist330181601#330181601#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8631872384#564"    cd /Users/1111/Workspace/memoshot    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -strip-debug-symbols -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app0#
+
+CCreateUniversalBinary /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/memoshot normal "armv6 armv7"
+s330181605.476795
+e330181605.481344
+r1
+xCreateUniversalBinary
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/memoshot
+xnormal
+xarmv6 armv7
+lSLF07#2@87"CreateUniversalBinary build/Release-iphoneos/memoshot.app/memoshot normal "armv6 armv7"330181605#330181605#0(0"0(0#0#42"/Users/1111/Workspace/memoshot/armv6 armv78625791616#562"    cd /Users/1111/Workspace/memoshot    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/lipo -create /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/memoshot /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/memoshot -output /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/memoshot0#
+
+CGenerateDSYMFile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app.dSYM /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/memoshot
+s330181605.481556
+e330181605.520518
+r1
+xGenerateDSYMFile
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app.dSYM
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/memoshot
+lSLF07#2@102"GenerateDSYMFile build/Release-iphoneos/memoshot.app.dSYM build/Release-iphoneos/memoshot.app/memoshot330181605#330181605#0(0"0(0#0#75"/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/memoshot8624198688#407"    cd /Users/1111/Workspace/memoshot    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/memoshot -o /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app.dSYM0#
+
+CLd /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/memoshot normal armv6
+s330181605.108706
+e330181605.160788
+r1
+xLd
+x/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/memoshot
+xnormal
+xarmv6
+lSLF07#2@118"Link /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/memoshot330181605#330181605#0(0"0(0#0#0"8631687264#895"    cd /Users/1111/Workspace/memoshot    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/1111/Workspace/memoshot/build/Release-iphoneos -F/Users/1111/Workspace/memoshot/build/Release-iphoneos -filelist /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/memoshot.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv6/memoshot0#
+
+CLd /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/memoshot normal armv7
+s330181605.434749
+e330181605.476631
+r1
+xLd
+x/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/memoshot
+xnormal
+xarmv7
+lSLF07#2@118"Link /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/memoshot330181605#330181605#0(0"0(0#0#0"8626632576#895"    cd /Users/1111/Workspace/memoshot    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/1111/Workspace/memoshot/build/Release-iphoneos -F/Users/1111/Workspace/memoshot/build/Release-iphoneos -filelist /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/memoshot.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/Objects-normal/armv7/memoshot0#
+
+CProcessInfoPlistFile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/Info.plist home_memo-Info.plist
+s330181601.313438
+e330181601.334770
+r1
+xProcessInfoPlistFile
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/Info.plist
+xhome_memo-Info.plist
+lSLF07#2@28"Process home_memo-Info.plist330181601#330181601#0(0"0(0#0#51"/Users/1111/Workspace/memoshot/home_memo-Info.plist8631375616#603"    cd /Users/1111/Workspace/memoshot    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility home_memo-Info.plist -genpkginfo /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/ResourceRules.plist -o /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/Info.plist0#
+
+CProcessPCH /var/folders/UT/UTh0O9B+F-WqSCph5zEfcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/home_memo_Prefix-bsbagavkzavhiaczbeeeqhxugvqn/home_memo_Prefix.pch.gch home_memo_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s330181602.791084
+e330181604.404696
+r1
+xProcessPCH
+x/var/folders/UT/UTh0O9B+F-WqSCph5zEfcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/home_memo_Prefix-bsbagavkzavhiaczbeeeqhxugvqn/home_memo_Prefix.pch.gch
+xhome_memo_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile home_memo_Prefix.pch330181602#330181604#0(0"0(0#0#51"/Users/1111/Workspace/memoshot/home_memo_Prefix.pch8625996800#1666"    cd /Users/1111/Workspace/memoshot    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-generated-files.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-own-target-headers.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-all-target-headers.hmap -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-project-headers.hmap -F/Users/1111/Workspace/memoshot/build/Release-iphoneos -I/Users/1111/Workspace/memoshot/build/Release-iphoneos/include -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources/armv7 -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/1111/Workspace/memoshot/home_memo_Prefix.pch -o /var/folders/UT/UTh0O9B+F-WqSCph5zEfcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/home_memo_Prefix-bsbagavkzavhiaczbeeeqhxugvqn/home_memo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/UT/UTh0O9B+F-WqSCph5zEfcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/home_memo_Prefix-gpsolwytwygjfeeqmrhmgxxhhrjd/home_memo_Prefix.pch.gch home_memo_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s330181602.789801
+e330181604.294450
+r1
+xProcessPCH
+x/var/folders/UT/UTh0O9B+F-WqSCph5zEfcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/home_memo_Prefix-gpsolwytwygjfeeqmrhmgxxhhrjd/home_memo_Prefix.pch.gch
+xhome_memo_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile home_memo_Prefix.pch330181602#330181604#0(0"0(0#0#51"/Users/1111/Workspace/memoshot/home_memo_Prefix.pch8626524576#1666"    cd /Users/1111/Workspace/memoshot    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-generated-files.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-own-target-headers.hmap -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-all-target-headers.hmap -iquote /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot-project-headers.hmap -F/Users/1111/Workspace/memoshot/build/Release-iphoneos -I/Users/1111/Workspace/memoshot/build/Release-iphoneos/include -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources/armv6 -I/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/DerivedSources -DNS_BLOCK_ASSERTIONS=1 -c /Users/1111/Workspace/memoshot/home_memo_Prefix.pch -o /var/folders/UT/UTh0O9B+F-WqSCph5zEfcU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/home_memo_Prefix-gpsolwytwygjfeeqmrhmgxxhhrjd/home_memo_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/1111/Library/MobileDevice/Provisioning Profiles/B7478FB3-C5D9-4F54-82E2-E5AF7CF5293B.mobileprovision" /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/embedded.mobileprovision
+s330181605.520674
+e330181605.545728
+r1
+xProcessProductPackaging
+x/Users/1111/Library/MobileDevice/Provisioning Profiles/B7478FB3-C5D9-4F54-82E2-E5AF7CF5293B.mobileprovision
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/embedded.mobileprovision
+lSLF07#2@194"ProcessProductPackaging "/Users/1111/Library/MobileDevice/Provisioning Profiles/B7478FB3-C5D9-4F54-82E2-E5AF7CF5293B.mobileprovision" build/Release-iphoneos/memoshot.app/embedded.mobileprovision330181605#330181605#0(0"0(0#0#91"/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/embedded.mobileprovision8621538624#471"    cd /Users/1111/Workspace/memoshot    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> "/Users/1111/Library/MobileDevice/Provisioning Profiles/B7478FB3-C5D9-4F54-82E2-E5AF7CF5293B.mobileprovision" -o /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app/embedded.mobileprovision0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot.xcent
+s330181605.551400
+e330181605.571076
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot.xcent
+lSLF07#2@180"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/memoshot.build/Release-iphoneos/memoshot.build/memoshot.xcent330181605#330181605#0(0"0(0#0#98"/Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot.xcent8623617472#483"    cd /Users/1111/Workspace/memoshot    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/1111/Workspace/memoshot/build/memoshot.build/Release-iphoneos/memoshot.build/memoshot.xcent0#
+
+CTouch /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app
+s330181757.447509
+e330181757.477082
+r1
+xTouch
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app
+lSLF07#2@72"Touch /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app330181757#330181757#0(0"0(0#0#0"8629607264#313"    cd /Users/1111/Workspace/memoshot    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app0#
+
+CValidate /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app
+s330188205.054684
+e330188205.328283
+r1
+xValidate
+x/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app
+o2011-06-19 23:56:45.221 Validation[50037:607] *** Warning: Defaulting to the standard codesign tool
+lSLF07#2@44"Validate build/Release-iphoneos/memoshot.app330188205#330188205#0(100"2011-06-19 23:56:45.221 Validation[50037:607] *** Warning: Defaulting to the standard codesign tool0(0#0#66"/Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app8638529376#422"    cd /Users/1111/Workspace/memoshot    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/1111/Workspace/memoshot/build/Release-iphoneos/memoshot.app0#
+
